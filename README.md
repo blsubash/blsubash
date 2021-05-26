@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Subash Babu from Chennai and I'm working as a frontend web developer at HCL Technologies since July 2019.
 - 👀 I’m interested in Fullstack Web Development.
 - 🌱 I’m currently learning JAMStack.
-- 📫 You can reach me at @blsubash and subash.jspy@gmail.com.
+- 📫 You can reach me at github: @blsubash and email: subash.jspy@gmail.com and twitter: @bl_subash.
 
 <!---
 blsubash/blsubash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
